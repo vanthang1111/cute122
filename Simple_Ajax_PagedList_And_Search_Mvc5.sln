@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ajax_PagedList_Mvc5", "Simple_Ajax_PagedList_And_Search_Mvc5\Ajax_PagedList_Mvc5.csproj", "{DCECCB28-6110-4069-9DC2-E05ECE199EDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCECCB28-6110-4069-9DC2-E05ECE199EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCECCB28-6110-4069-9DC2-E05ECE199EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCECCB28-6110-4069-9DC2-E05ECE199EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCECCB28-6110-4069-9DC2-E05ECE199EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BBF06A3-CC8E-4EE5-A85E-21BA2F25232F}
+	EndGlobalSection
+EndGlobal
